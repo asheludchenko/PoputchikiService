@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="PoputchikiService" namespace="PoputchikiService" >
+  <class name="PoputchikiService.Route,PoputchikiService" table="Routes">
+    <id name="RouteID" column="RouteID" type ="Int32" unsaved-value="0">
+      <generator class="native"></generator>
+    </id>
+    <property name="UserID" column="UserID" type="int" length="4" not-null="false"/>
+    <property name="StartLon" column="StartLon" type="string" length="50" not-null="false"/>
+    <property name="StartLat" column="StartLat" type="string" length="50" not-null="false"/>
+    <property name="EndLon" column="EndLon" type="string" length="50" not-null="false"/>
+    <property name="EndLat" column="EndLat" type="string" length="50" not-null="false"/>
+    <property name="State" column="State" type="string" length="50" not-null="false"/>
+    <property name="Regularity" column="Regularity" type="string" length="50" not-null="false"/>
+    <property name="RouteName" column="RouteName" type="string" length="50" not-null="false"/>
+    <property name="Comment" column="Comment" type="string" length="50" not-null="false"/>
+    <property name="Way" column="Way" type="string" length="50" not-null="false"/>
+    <property name="Ones" column="Ones" type="string" length="50" not-null="false"/>
+    <property name="IsRegular" column="IsRegular" type="string" length="50" not-null="false"/>
+    <property name="Distance" column="Distance" type="string" length="50" not-null="false"/>
+    <property name="EndAddress" column="EndAddress" type="string" length="50" not-null="false"/>
+    <property name="StartAddress" column="StartAddress" type="string" length="50" not-null="false"/>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,10 @@
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\PoputchikiService\bin\Debug\PoputchikiService.dll.config
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\PoputchikiService\bin\Debug\PoputchikiService.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\PoputchikiService\bin\Debug\PoputchikiService.pdb
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\PoputchikiService\bin\Debug\NHibernate.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\PoputchikiService\bin\Debug\Iesi.Collections.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\PoputchikiService\bin\Debug\Castle.DynamicProxy.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\PoputchikiService\bin\Debug\log4net.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\PoputchikiService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\PoputchikiService\obj\Debug\PoputchikiService.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\PoputchikiService\obj\Debug\PoputchikiService.pdb

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://gumista-water.com" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Профиль1" publishMethod="FTP" replaceMatchingFiles="True" userName="u2672102" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAG87cIIuzlU2yN1az+1nMkgAAAAACAAAAAAAQZgAAAAEAACAAAAByVes1bAWrqrNSbQ1YA49FxakmAcOErQ4H5WvO2qBz3AAAAAAOgAAAAAIAACAAAAAyaZDbauV6ZAG+Wuxq5yi9jice53itSYTY//ZyPtWB2yAAAABaKotLDjj7sQ9gOaZwrPyL+5l1sVOeK3lYZh/WdXde/0AAAABNAVOXoDAcvZSPs9uywbCBZQ+iC2Z7Rko+fxhdxSImYUPZwPDt+SLC/UN+CTvYPM+dH+pp/STIDmH+/8T11rJ3" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="07/26/2012 00:19:30" />
+    <file relUrl="UserService.svc" publishTime="07/08/2012 13:44:23" />
+    <file relUrl="bin/UserService.Web.dll" publishTime="07/26/2012 00:19:23" />
+    <file relUrl="hibernate.cfg.xml" publishTime="07/10/2012 14:36:27" />
+    <file relUrl="bin/PoputchikiService.pdb" publishTime="07/26/2012 00:19:22" />
+    <file relUrl="UserServiceJSON.svc" publishTime="07/08/2012 14:38:11" />
+    <file relUrl="bin/Castle.DynamicProxy.dll" publishTime="10/05/2007 21:01:00" />
+    <file relUrl="bin/log4net.dll" publishTime="10/05/2007 21:01:00" />
+    <file relUrl="bin/PoputchikiService.dll" publishTime="07/26/2012 00:19:22" />
+    <file relUrl="bin/NHibernate.dll" publishTime="11/24/2007 17:23:38" />
+    <file relUrl="bin/UserService.Web.pdb" publishTime="07/26/2012 00:19:23" />
+    <file relUrl="bin/hibernate.cfg.xml" publishTime="07/10/2012 14:36:27" />
+    <file relUrl="bin/Iesi.Collections.dll" publishTime="11/24/2007 17:23:34" />
+  </publishProfile>
+</publishData>

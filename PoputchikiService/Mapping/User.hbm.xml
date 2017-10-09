@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="PoputchikiService" namespace="PoputchikiService" >
+  <class name="PoputchikiService.User,PoputchikiService" table="UserInformation">
+    <id name="UserID" column="UserID" type ="Int32" unsaved-value="0">
+      <generator class="native"></generator>
+    </id>
+    <property name="FirstName" column="FirstName" type="string" length="50" not-null="false"/>
+    <property name="SecondName" column="SecondName" type="string" length="50" not-null="false"/>
+    <property name="LastName" column="LastName" type="string" length="50" not-null="false"/>
+    <property name="Login" column="Login" type="string" length="50" not-null="false"/>
+    <property name="Password" column="Password" type="string" length="50" not-null="false"/>
+    <property name="VKID" column="VKID" type="string" length="50" not-null="false"/>
+    <property name="CurrentLon" column="CurrentLon" type="string" length="50" not-null="false"/>
+    <property name="CurrentLat" column="CurrentLat" type="string" length="50" not-null="false"/>
+    <property name="Gender" column="Gender" type="string" length="10" not-null="false"/>
+    <property name="BirthYear" column="BirthYear" type="int" length="4" not-null="false"/>
+    <property name="BirthMonth" column="BirthMonth" type="int" length="4" not-null="false"/>
+    <property name="BirthDay" column="BirthDay" type="int" length="4" not-null="false"/>
+    <property name="Email" column="Email" type="string" length="50" not-null="false"/>
+    <property name="MobilePhone" column="MobilePhone" type="string" length="50" not-null="false"/>
+    <property name="Auto" column="Auto" type="string" length="50" not-null="false"/>
+  </class>  
+</hibernate-mapping>

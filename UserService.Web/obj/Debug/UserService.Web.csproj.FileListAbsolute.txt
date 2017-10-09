@@ -1,0 +1,12 @@
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\bin\hibernate.cfg.xml
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\bin\UserService.Web.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\bin\UserService.Web.pdb
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\bin\NHibernate.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\bin\PoputchikiService.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\bin\Iesi.Collections.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\bin\Castle.DynamicProxy.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\bin\log4net.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\bin\PoputchikiService.pdb
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\obj\Debug\UserService.Web.dll
+C:\Users\Андрей\Documents\Visual Studio 2010\Projects\PoputchikiService\UserService.Web\obj\Debug\UserService.Web.pdb
